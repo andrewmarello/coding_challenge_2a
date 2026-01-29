@@ -16,7 +16,6 @@ let breakEvenUnits = Math.ceil(fixedMonthlyCosts / profitPerUnit)
 let isProfitablePerUnit = profitPerUnit > 0
 
 // Step 3: Print to Console
-
 console.log("Product Name:", product_name);
 console.log("Discounted Price (before tax): $", discountedPrice.toFixed(2));
 console.log("Final Price (after tax): $", finalPriceWithTax.toFixed(2));
