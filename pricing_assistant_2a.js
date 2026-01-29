@@ -1,5 +1,4 @@
-const name = "Andrew"
-console.log(`Hello ${name}. This is Coding Challenge 2a - Pricing Assistant.`)
+console.log(`Hello. This is Coding Challenge 2a - Pricing Assistant.`)
 
 // Step 1: Create and Initialize Variables
 const product_name = "Running Shoes"
