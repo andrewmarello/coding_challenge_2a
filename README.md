@@ -1,3 +1,4 @@
 # Coding Challenge 2
 
-ISM3232 Challenge 2a and 2b.
+Coding Challenge 02a - Pricing Assistant
+Coding Challenge 02b - Inventory Assistant
